@@ -55,7 +55,7 @@ _Herramientas usadas en el proyecto y que se deben instalar para ejecucion_
 * **Michael Alejandro Muñóz** - *Base de Datos* - [MaicolM11](https://github.com/MaicolM11)
 * **Juan Sebastian Camargo** - *Desarrollo* - [SebSCam](https://github.com/SebSCam)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/SebSCam/Easy-Cargo-API-Server/contributors) quíenes han participado en este proyecto. 
 
 ## Expresiones de Gratitud 🎁
 
