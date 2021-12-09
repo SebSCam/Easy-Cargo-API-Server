@@ -52,8 +52,6 @@ _Herramientas usadas en el proyecto y que se deben instalar para ejecucion_
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Michael Alejandro Muñóz** - *Base de Datos* - [MaicolM11](https://github.com/MaicolM11)
 * **Juan Sebastian Camargo** - *Desarrollo* - [SebSCam](https://github.com/SebSCam)
 
